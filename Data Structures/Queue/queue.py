@@ -32,13 +32,15 @@ class queue:
 				print(self.ls[i])
 
 
-q_obj=queue()
-q_obj.__init__()
-q_obj.Enqueue(4)
-q_obj.Enqueue(6)
-q_obj.Enqueue(1)
-q_obj.Enqueue(7)
-q_obj.Enqueue(2)
-q_obj.display()
-q_obj.Dequeue()
-q_obj.display()
+
+if __name__ == '__main__':
+	q_obj=queue()
+	q_obj.__init__()
+	q_obj.Enqueue(4)
+	q_obj.Enqueue(6)
+	q_obj.Enqueue(1)
+	q_obj.Enqueue(7)
+	q_obj.Enqueue(2)
+	q_obj.display()
+	q_obj.Dequeue()
+	q_obj.display()
