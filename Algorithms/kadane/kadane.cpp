@@ -1,4 +1,4 @@
-// Contributed by - Shlok Kumar Suman shloksuman01@gmail.com
+// Contributed by - Shlok Kumar Suman <shloksuman01@gmail.com>
 
 #include<bits/stdc++.h>
 using namespace std;
