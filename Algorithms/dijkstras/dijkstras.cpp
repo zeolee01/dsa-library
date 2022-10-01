@@ -1,4 +1,4 @@
-// Contributed by - Shlok Kumar Suman shloksuman01@gmail.com
+// Contributed by - Shlok Kumar Suman <shloksuman01@gmail.com>
 
 #include<iostream>
 #include<climits>     /*Used for INT_MAX*/
