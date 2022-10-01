@@ -1,3 +1,5 @@
+// Contributed by - Byomakesh Panda <byomakeshpanda210@gmail.com>
+
 #include <stdio.h>
 void merge(int a[],int l,int mid,int r)
 {
