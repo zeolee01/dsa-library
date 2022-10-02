@@ -1,3 +1,5 @@
+// contribute by - HARSH AGARWAL <harsh5nov11@gmail.com>
+
 /*
 Input Format:
 The first line contains an integer 'q' which denotes the number of queries to be run against each operation in the stack. 
