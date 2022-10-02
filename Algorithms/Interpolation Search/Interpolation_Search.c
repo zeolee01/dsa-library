@@ -1,7 +1,5 @@
 //Contributed by Gaurang <gaurang7goel@gmail.com>
 
-
-
 /* InterpolationSearch
 
 Algorithm 
