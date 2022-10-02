@@ -1,3 +1,5 @@
+// contributer by- HARSH AGARWAL <harsh5nov11@gmail.com>
+
 #include<iostream>
 using namespace std;
 void display(int *array, int size) {
