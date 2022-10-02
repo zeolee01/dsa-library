@@ -1,3 +1,5 @@
+/* Contributed by - Ritik kumar <arp17114865@gmail.com> */
+
 #include <bits/stdc++.h>
 using namespace std;
 
